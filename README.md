@@ -1,5 +1,5 @@
 # spyder-for-MAOGAI
-# OUC毛概题库（基于bb平台）
+## OUC毛概题库（基于bb平台）
 使用selenium，对bb平台的题库进行爬取
 
 使用Chrome-driver
